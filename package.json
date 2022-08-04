@@ -1,0 +1,10 @@
+{
+  "name": "jellyfish",
+  "version": "0.1.0",
+  "description": "Jellyfish is a designer portal and low-code platform.",
+  "main": "index.js",
+  "repository": "git@github.com:redwolf0302/jellyfish.git",
+  "author": "EvanZhang <redwolf0302@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
